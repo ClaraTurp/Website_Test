@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to BiblioTECH
+Click here for the meeting notes:
+Click here for the Schedule.
 
 You can use the [editor on GitHub](https://github.com/ClaraTurp/Website_Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
