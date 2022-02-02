@@ -1,6 +1,14 @@
-## Welcome to BiblioTECH
+# Welcome to BiblioTECH
 Click here for the meeting notes: <br>
-[Click here for the Schedule](https://github.com/ClaraTurp/Website_Test/schedule.html)
+[Click here for the Schedule](https://claraturp.github.io/Website_Test/schedule.html)
+
+## About the Application Process
+
+
+
+
+
+### Markdown and Pages Notes from Template:
 
 You can use the [editor on GitHub](https://github.com/ClaraTurp/Website_Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
