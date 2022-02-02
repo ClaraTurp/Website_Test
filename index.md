@@ -2,6 +2,8 @@
 Click here for the meeting notes: <br>
 [Click here for the Schedule](https://claraturp.github.io/Website_Test/schedule.html)
 
+![coding image](https://github.com/ClaraTurp/Website_Test/blob/gh-pages/assets/istockphoto-1291641896-1024x1024.jpg)
+
 ## About the Application Process
 
 
