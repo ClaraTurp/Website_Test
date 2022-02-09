@@ -3,11 +3,11 @@
 return to [home page](https://claraturp.github.io/Website_Test/)
 
 ### Table of Content
-1. [August 8th](#Monday)
-2. [August 9th](#Tuesday)
-3. [August 10th](#Wednesday)
-4. [August 11th](#Thursday)
-5. [August 12th](#Friday)
+1. [Day 1: August 8th](#Monday)
+2. [Day 2: August 9th](#Tuesday)
+3. [Day 3: August 10th](#Wednesday)
+4. [Day 4: August 11th](#Thursday)
+5. [Day 5: August 12th](#Friday)
 
 ## Monday, August 8th 2022 <a name="Monday"></a>
 
