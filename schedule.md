@@ -21,6 +21,11 @@ ADD BLURB
 
 ADD DESCRIPTION
 
+3:00 PM - 4:00 PM <br>
+### Git and GitHub - With ???
+
+ADD DESCRIPTION
+
 ## Tuesday, August 9th 2022 <a name="Tuesday"></a>
 11:30 AM - 12:30 PM <br>
 ### Welcome
