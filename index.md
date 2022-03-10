@@ -1,9 +1,3 @@
-<style>
-H1{color:Black !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
-
 # Welcome to BiblioTECH
 <span style="color: red;">[Cliquez ici pour accéder au site en français](/index-fr.html)</span>
  
